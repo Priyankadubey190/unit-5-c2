@@ -1,0 +1,14 @@
+{
+  "houses": [
+    {
+      "Name": "Anand Bhawan",
+      "Owners": "Mr. A P Sharma",
+      "Address": "",
+      "Area": "Chargawan",
+      "rent": "10000",
+      "preferred": "",
+      "image_url": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "id": 1
+    }
+  ]
+}
